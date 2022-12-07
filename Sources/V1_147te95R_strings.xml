@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Medications -->
+
+    <string-array name="medication_types">
+        <item>Insulin</item>
+        <item>Oral Medication</item>
+        <item>Injectable Medication</item>
+        <item>Other Medication</item>
+    </string-array>
+
+    <plurals name="number_of_units">
+        <item quantity="one">unit</item>
+        <item quantity="other">units</item>
+    </plurals>
+
+    <string name="library_prescribing_info">Prescribing Information</string>
+    <string name="library_prescribing_info_and_guide">Prescribing Information and Medication Guide</string>
+
+    <string name="never">Never</string>
+    <string name="everyday">Everyday</string>
+
+    <string name="alarm_long_low_battery">Low battery [01.0]</string>
+</resources>
