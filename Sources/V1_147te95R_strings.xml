@@ -1,24 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <!-- Medications -->
+<Translate>
+  <Title>Mobile Store Fulfillment</Title>
+  <UrlTitle>article-1</UrlTitle>
+  <Summary>Leverage your entire inventory and local store locations to ensure customers get the products they want, when and where they want them. One simple solution enables all fulfillment scenarios.</Summary>
+  <Image>MediaArchive:a6c1dd3c-6732-4e69-b7f7-a4e584672541</Image>
+  <Tags>mobile, store, fulfillment</Tags>
+  <Content>
+    <html xmlns="http://www.w3.org/1999/xhtml">
+      <head></head>
+      <body>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<f:function name="Composer.Grids.OneThirdTwoThirds" xmlns:f="http://www.composite.net/ns/function/1.0"><f:param name="LeftPart" xmlns:f="http://www.composite.net/ns/function/1.0" translateAttribute="true"><html><head></head><body>
 
-    <string-array name="medication_types">
-        <item>Insulin</item>
-        <item>Oral Medication</item>
-        <item>Injectable Medication</item>
-        <item>Other Medication</item>
-    </string-array>
+left part
 
-    <plurals name="number_of_units">
-        <item quantity="one">unit</item>
-        <item quantity="other">units</item>
-    </plurals>
+	</body></html></f:param><f:param name="RightPart" xmlns:f="http://www.composite.net/ns/function/1.0" translateAttribute="false"><html><head></head><body>
 
-    <string name="library_prescribing_info">Prescribing Information</string>
-    <string name="library_prescribing_info_and_guide">Prescribing Information and Medication Guide</string>
+right part
 
-    <string name="never">Never</string>
-    <string name="everyday">Everyday</string>
 
-    <string name="alarm_long_low_battery">Low battery [01.0]</string>
-</resources>
+
+	</body></html></f:param></f:function></p>
+      </body>
+    </html>
+  </Content>
+  <_internal translateAttribute="false">
+    <_hash>fa33231e-cf01-46b4-aaa0-db46ad9fcd78</_hash>
+    <_websiteId>f3dbd28d-365f-4d3e-91c3-7b730b39b294</_websiteId>
+    <_dataSourceId>{"DataId":{"$type":"CompositeGenerated.DynamicXmlDataProvider.Orckestra_Composer_Articles_DataTypes_IArticleDataId, Composite.Generated","Id":"ebde7023-ff65-4929-b314-fdb211fe036b"},"InterfaceType":"Orckestra.Composer.Articles.DataTypes.IArticle, Orckestra.Composer.Articles","DataScopeIdentifier":{"Name":"public"},"localeScope":"en-CA"}</_dataSourceId>
+    <_itemType>IArticle</_itemType>
+    <_itemId>ebde7023-ff65-4929-b314-fdb211fe036b</_itemId>
+    <_sourceLanguage>en-CA</_sourceLanguage>
+    <_targetLanguage>fr-CA</_targetLanguage>
+    <_label>Mobile Store Fulfillment</_label>
+  </_internal>
+</Translate>
