@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="tv_app_name_quicksupport">QuickSupport</string>
+	<string name="tv_app_name_quicksupport_launcher">QuickSupport</string>
+	<string name="tv_errorMessage_QS_Uninstall_Existing_Package_Title">Uninstall other QuickSupport app</string>
+	<string name="tv_errorMessage_QS_Uninstall_Existing_Package_Body">There is a duplicated QuickSupport app on your device. Please uninstall the other app to avoid any incompatibility.</string>
+	<string name="tv_qs_incomingRemoteControlConnectionMessage">Would you like to allow %s to remote control your Android device?</string>
+	<string name="tv_qs_incomingRemoteSupportConnectionMessage">Would you like to allow %s to remote support your Android device?</string>
+	<string name="tv_qs_incomingRemoteControlConnectionTitle"> Allow remote control?</string>
+	<string name="tv_qs_notification_title">TV QuickSupport</string>
+	<string name="tv_qs_dyngateIDLabel">Your ID</string>
+	<string name="tv_qs_passwordLabel">Password</string>
+	<string name="tv_qs_notification_connect_text">Connected to %s</string>
+	<string name="tv_qs_notification_connect_ticker">connected</string>
+	<string name="tv_qs_notification_disconnect_text">The session with %s is finished</string>
+	<string name="tv_qs_buttonDisconnect">Disconnect</string>
+	<string name="tv_qs_buttonSendID">Send my ID...</string>
+	<string name="tv_qs_sendIDChooser">Send my ID via...</string>
+	<string name="tv_qs_sendIDMessageSubject">My TeamViewer ID</string>
+	<string name="tv_qs_sendIDMessageBody">Please connect to my device by opening https://start.teamviewer.com/%1$d\nAlternatively you can visit https://start.teamviewer.com and enter my TeamViewer ID %1$d.</string>
+	<string name="tv_qs_sendIDMessage_ActivityNotFoundException">There are no apps available to send your ID. Please install e.g. an email app and try again.</string>
+	<string name="tv_qs_dyngateBubbleText">Use this ID to remotely connect to this device.</string>
+	<string name="tv_qs_menuShowLogFile">Log files</string>
+	<string name="tv_qs_menuShowVersionInfo">Version info</string>
+	<string name="tv_qs_menuOptions">Options</string>
+	<string name="tv_qs_uninstall_other_qs_flavors">Uninstall</string>
+	<string name="tv_qs_message_see_you_there">See you there!</string>
+	<string name="tv_errorMessage_QS_Market_Availability_Positive_Button">Install from Google Play</string>
+	<string name="tv_message_QS_download_app_directly">Download app APK directly</string>
+	<string name="tv_connectUnableToConnect">Unable to connect</string>
+	<string name="tv_qs_actionbarTitle">TeamViewer QuickSupport</string>
+	<string name="tv_qs_session_code_incorrect">Invalid session code</string>
+	<string name="tv_qs_no_activity_can_handle_intent">Link doesn\'t include a session code. No other app available to handle this URL.</string>
+	<string name="tv_qs_link_too_long">Link is too long. Please try to open it in a browser.</string>
+	<string name="tv_qs_qs_activities_hidden">QuickSupport app has been minimized.</string>
+	<string name="tv_qs_qs_activities_hidden_screen_sharing_active">QuickSupport app has been minimized. Screen sharing active.</string>
+	<string name="tv_qs_accessibilityServiceActivateTitle">Universal Add-On activation</string>
+	<string name="tv_qs_accessibilityServiceActivateMessage">Please enable the TeamViewer Universal Add-On accessibility service to provide full remote control of this device.</string>
+
+	<!--  ClientActivity -->
+	<string name="tv_clientDialogQuit">Close</string>
+	<string name="tv_clientDialogAbort">Cancel</string>
+
+	<string name="qs_menu_close_session">Close connection</string>
+
+	<string name="tv_widget_chat_text_hint_entertext_field">Type your message here</string>
+
+	<string name="tutorial_page_1_title">How to connect to this device</string>
+	<string name="tutorial_page_1_description">On any other device, go to\nhttps://start.teamviewer.com</string>
+	<string name="tutorial_page_2_description">Enter the ID below into the Partner-ID field</string>
+	<string name="tutorial_page_3_description">Press \"Connect to Partner\"</string>
+	<string name="tutorial_browser_url">https://start.teamviewer.com</string>
+
+	<string name="tv_pref_app_intro">Intro</string>
+	<string name="intro_page_1_description_can_control"><![CDATA[<b>Remotely control</b> this device from any computer or...]]></string>
+	<string name="intro_page_1_description_view_only"><![CDATA[<b>Share this device\'s screen</b> to any computer or...]]></string>
+	<string name="intro_page_2_description_can_control"><![CDATA[even from <b>another mobile device</b>]]></string>
+	<string name="intro_page_2_description_view_only"><![CDATA[even to <b>another mobile device</b>]]></string>
+	<string name="intro_page_3_description"><![CDATA[<b>Transfer files</b> from this device to your computer, or vice versa]]></string>
+	<string name="intro_done">Done</string>
+
+	<!-- File permissions -->
+	<string name="tv_qs_no_storage_permission_grant_additional_text">%s would like to transfer files from or to this device. Please allow to access your files.</string>
+	<string name="tv_qs_no_storage_permission_goto_settings_text">File transfer is not possible. Please enable storage permissions within the settings.</string>
+	<string name="tv_qs_no_storage_permission_goto_settings_action">Settings</string>
+
+	<!-- Samsung KNOX device admin label -->
+	<string name="tv_samsungknox_device_admin_label">TeamViewer QuickSupport</string>
+
+	<!-- Sony device admin label -->
+	<string name="tv_sony_device_admin_label">TeamViewer QuickSupport</string>
+
+	<!--Overlay permissions-->
+	<string name="tv_qs_overlay_permission_dialog_title">Special app access required</string>
+	<string name="tv_qs_overlay_permission_dialog_message">QuickSupport needs permission to display over other apps. Please grant this permission in your device settings.</string>
+	<string name="tv_qs_overlay_permission_dialog_settings">Settings</string>
+	<string name="tv_qs_overlay_permission_toast_message">Please grant permission to display over other apps.</string>
+
+	<string name="tv_qs_open_bluetooth_message">Turn on Bluetooth to connect to nearby devices.</string>
+	<string name="tv_qs_allow_nearby_permission_snackbar_message">Please allow permission for Nearby devices.</string>
+	<string name="tv_qs_no_nearby_permission_goto_settings_action">Settings</string>
+
+	<string name="tv_text_selection_action_name">Copy to QuickSupport</string>
+
+	<!-- Fraud Warning Dialog -->
+	<string name="tv_ID_ConnectionWarning_Title">Allow connection?</string>
+	<string name="tv_ID_ConnectionWarning_Text">Warning! If you received an unsolicited phone call from the person connecting to you, this may be a possible <b>scam attempt</b>.\n\nOnly allow this connection if you really trust the other person.</string>
+	<string name="tv_ID_ConnectionWarning_Positive">Allow</string>
+	<string name="tv_ID_ConnectionWarning_Negative">Deny</string>
+
+	<!-- Config ID Confirmation Dialog -->
+	<string name="tv_qs_config_id_confirmation_dialog_title">Confirm custom configurations</string>
+	<string name="tv_qs_config_id_confirmation_dialog_description">Custom configurations are about to be downloaded and automatically applied.\nThis can enable/disable session features by default for all upcoming session.\nDo you agree on applying the configuration?</string>
+	<string name="tv_qs_config_id_confirmation_dialog_apply">Apply</string>
+
+	<!-- Temporarily duplicate strings from IncomingRemoteControlExternalLib to fix compile breaks -->
+	<string name="tv_qs_install_addon">Install additional Add-On</string>
+</resources>

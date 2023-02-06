@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="lifear_app_name">lifeAR</string>
+	<string name="task_affinity" translatable="false">com.teamviewer.lifear.rcgedupq</string>
+
+	<!-- Birthday screen -->
+	<string name="birthday_title">Birthday</string>
+	<string name="birthday_subtitle">Select your birthday.</string>
+	<string name="birthday_continue_button_text">Continue</string>
+	<string name="birthday_dialog_header">Not eligible for use</string>
+	<string name="birthday_dialog_description">Sorry, you‘re not eligible for lifeAR… but thanks for checking us out!</string>
+	<string name="birthday_dialog_explanation">Why we need your birthday</string>
+	<string name="birthday_explanation_text">Your birthday is used to verify your age for legal purposes. It is not stored on our servers.</string>
+
+	<!-- Age verification screen -->
+	<string name="age_verification_title">Age Verification</string>
+	<string name="age_verification_subtitle">Your age will not be publicly available and will never be stored on our side. It is used only for legal verification.</string>
+	<string name="age_verification_input_field_hint">Age</string>
+	<string name="age_verification_input_field_invalid_age">Please enter your real age</string>
+
+	<!-- Phone Registration -->
+	<string name="phone_number_verification_title">Phone number</string>
+	<string name="phone_number_verification_text">Enter your phone number to help friends find you.</string>
+	<string name="enter_your_phone_number_hint">Phone number</string>
+	<string name="resend">Resend Code</string>
+	<string name="sign_in_button_text">Register</string>
+	<string name="legal_agreement_text_with_hansi">By using lifeAR, you agree to our %1$s and %2$s. Information on how we process your personal data can be found in our %3$s.</string>
+	<string name="legal_agreement_text_tos">Terms of Service</string>
+	<string name="legal_agreement_text_hansi">HANSI</string>
+	<string name="legal_agreement_text_pp">Privacy Policy</string>
+	<string name="phone_number_already_registered_title">Phone number already registered</string>
+	<string name="phone_number_already_registered_message">This phone number is already registered on another device. Please use a different number.</string>
+	<string name="activation_sms_sending_failed_title">Sending SMS failed</string>
+	<string name="activation_sms_sending_failed_message">An error occurred while sending the activation code. Please try again.</string>
+	<string name="activation_too_many_requests_from_this_device_message">You tried to activate too many different numbers on this device. Please try again later.</string>
+	<string name="phone_number_dialog_explanation">Why we need your phone number</string>
+	<string name="phone_number_explanation_text">Your phone number is needed for your account, same as for other instant messenger apps.\nAccess to your address book is needed to show the contacts that are also using lifeAR. The phone numbers in your address book are not stored on our servers.</string>
+
+	<!-- Activation -->
+	<string name="error_occurred_title">Unexpected Error</string>
+	<string name="error_occurred_message">An unexpected error occurred. Please try again.</string>
+	<string name="resend_code">Resend Code</string>
+	<string name="resend_code_in">Resend code in </string>
+	<string name="verifying_code">Verifying the code</string>
+	<string name="activation_code_expired_title">Activation code expired</string>
+	<string name="activation_code_expired_message">The activation code has expired. Please request a new code.</string>
+	<string name="activation_code_invalid_title">Activation code invalid</string>
+	<string name="activation_code_invalid_message">You\'ve entered an invalid code. Please try again or request a new code.</string>
+	<string name="error_too_many_activation_attempts_title">Too many attempts</string>
+	<string name="error_too_many_activation_attempts_message">You tried too often to verify with a wrong activation code. Please request a new one.</string>
+	<string name="error_too_many_activation_code_requests_title">Sending new activation code not possible</string>
+	<string name="error_too_many_activation_code_requests_message">You have already received the limit for activation codes for today. Please double check the phone number or try again later.</string>
+	<string name="user_already_activated_title">Phone number already activated</string>
+	<string name="user_already_activated_message">This phone number is already activated on this device. Please close the app and start it again.</string>
+	<string name="verification">Verification</string>
+	<string name="code_verification_text">Please enter the code sent to %s</string>
+	<string name="wrong_phone_number">Wrong number?</string>
+
+	<!-- Settings -->
+	<string name="menu_settings">Settings</string>
+	<string name="menu_unblock">Unblock</string>
+	<string name="invite_friend">Invite Friends</string>
+	<string name="invite_friend_subject">Invitation to use lifeAR</string>
+	<string name="invite_friend_text">Hi, I use lifeAR for really cool video calls using augmented reality. Join in and get it at https://get.lifear.app</string>
+	<string name="settings_faq">FAQ</string>
+	<string name="settings_faq_link">https://www.teamviewer.com/link/?url=353544</string>
+	<string name="crash_report_email_recipient" translatable="false">lifeAR@teamviewer.com</string>
+	<string name="settings_lifear_version">lifeAR Version</string>
+	<string name="account">Account</string>
+	<string name="delete_account">Delete Account</string>
+	<string name="cancel">Cancel</string>
+	<string name="delete_account_dialog_wait_title">Please wait, your account is being deleted.</string>
+	<string name="delete_account_dialog_title">Delete your account?</string>
+	<string name="delete_account_dialog_message">All your data will be deleted and your friends will no longer be able to contact you via lifeAR.</string>
+	<string name="delete_account_failed_dialog_title">Account deletion failed</string>
+	<string name="delete_account_failed_dialog_message">An error occurred while deleting your account. Please try again.</string>
+
+	<!-- Contact List -->
+	<string name="contact_read_permission_denied_once">Please allow lifeAR access to your contacts to enable video calls.</string>
+	<string name="no_contacts_text">No contacts were found.</string>
+	<string name="allow_access">Allow Access</string>
+	<string name="allow_access_explanation">Please allow lifeAR access to your contacts to connect with friends.</string>
+	<string name="read_contacts_permission_denied_saved_settings">Please allow lifeAR access to your contacts to enable video calls.</string>
+	<string name="invite_friends_text">lifeAR is better together. Invite your friends to join!</string>
+	<string name="invite_friends_no_contacts_text">When someone in your phone\'s address book installs the lifeAR app, they will automatically appear here.\nShare a link to invite them now!</string>
+	<string name="share_link">Invite Friends</string>
+	<string name="search_query_hint">Search</string>
+	<string name="starting_call">Starting the call</string>
+
+	<!-- Blocked Users List -->
+	<string name="blocked_contacts_header">Blocked Contacts</string>
+	<string name="no_blocked_users_text">No blocked contacts</string>
+
+	<!-- ForegroundService -->
+	<string name="lifear_session_foreground_notification_channel_record_title">The call is being recorded</string>
+	<string name="lifear_session_foreground_notification_title">lifeAR call in progress...</string>
+
+	<!-- Welcome -->
+	<string name="welcome_continue_button_text">Continue</string>
+
+	<!-- Intro -->
+	<string name="intro_header_1">Welcome to lifeAR</string>
+	<string name="intro_header_2">Save the day, the AR way</string>
+	<string name="intro_header_3">Show what you mean</string>
+	<string name="intro_header_4">This or that? Hmm...</string>
+	<string name="intro_description_1">Enhance your video calls and solve everyday life problems with the power of AR.</string>
+	<string name="intro_description_2">See what they see, visually guiding them through problem-solving steps with AR annotations.</string>
+	<string name="intro_description_3">Physically interact with objects in camera using AR pointers for \'show and tell\' video calls.</string>
+	<string name="intro_description_4">Shopping is full of hard choices. Let your friends help your decisions in real time.</string>
+	<string name="get_started_button_text">Get Started</string>
+
+	<!-- ARCore  -->
+	<string name="arcore_not_supported_error_title">Device not supported</string>
+	<string name="arcore_not_supported_error_message">Sorry, your device does not support Google Play Services for AR which is mandatory to use this app.</string>
+	<string name="close_app">Close App</string>
+	<string name="arcore_installation_required_title">Installation required</string>
+	<string name="arcore_installation_required_message">This app requires Google Play Services for AR. Luckily your device does support this, please install it.</string>
+	<string name="arcore_installation_required_install">Install</string>
+	<string name="initialization_minor_warning">Remember to be alert at all times. Stay aware of your surroundings.</string>
+
+	<!-- SplitScreen  -->
+	<string name="lifear_camera_permission_denied_once">Camera access is required to start video calls, record experiences and take a photo as profile picture.</string>
+	<string name="camera_permission_denied_saved_settings">Please grant Camera permission in the settings</string>
+	<string name="storage_permission_denied_saved_settings">Please grant Storage permission in the settings</string>
+	<string name="screen_was_recorded_want_to_share">The recording was saved to your device</string>
+	<string name="share_snapshot_message">Snapshot is saved to your device photos</string>
+	<string name="screen_recording_share">Share</string>
+	<string name="screen_recording_close">Close</string>
+	<string name="screen_is_recording_by_participant">The call is being recorded</string>
+	<string name="session_message_notification_channel_name">lifeAR call message notifications</string>
+	<string name="session_message_notification_channel_description">lifeAR call message notification category</string>
+	<string name="tutorial_swipe_text">Swipe down to try it out</string>
+
+	<!-- Profile Screen -->
+	<string name="profile_details_header">Profile details</string>
+	<string name="display_name_hint">Display name</string>
+	<string name="profile_picture_options_layout_header_text">Profile picture</string>
+	<string name="take_photo_textview_text">Take photo</string>
+	<string name="select_from_gallery_textview_text">Select from gallery</string>
+	<string name="remove_photo_textview_text">Remove photo</string>
+
+	<!-- Crop Screen -->
+	<string name="use_photo_button_text">Use photo</string>
+	<string name="crop_screen_explanatory_text">Move and zoom</string>
+
+	<!-- Session  -->
+	<string name="session_waiting_room_joining_call">Welcome to lifeAR!\nJoining the call...</string>
+	<string name="own_camera_off">Video off</string>
+	<string name="bottom_sheet_title">Invite up to 5 participants</string>
+	<string name="add_to_call">Add to Call</string>
+	<string name="max_participants_selected">A call is currently limited to 6 participants</string>
+	<string name="invitation_send">Invitation sent</string>
+	<string name="invitation_failed_title">Calling failed</string>
+	<string name="invitation_failed_retry">The call could not be established. Please invite your contact again.</string>
+	<string name="clear_all_your_markers_dialog_title">Delete all your markers?</string>
+	<string name="clear_all_your_markers_dialog_message">Do you really want to delete all your markers?</string>
+	<string name="ar_tools_not_available">AR tools will be available once you resume the video.</string>
+	<string name="screenshot_hint">Hit “Snapshot” to capture a screen</string>
+	<string name="gif_hint">Tap the screen where you want to place the GIF.</string>
+	<string name="gif_not_supported_by_presenter">The current presenter doesn\'t support the GIF feature.</string>
+
+	<!-- Incoming calls -->
+	<string name="notification_incoming_session">Incoming lifeAR call</string>
+	<string name="incoming_session_header">Incoming lifeAR call</string>
+	<string name="incoming_session_accept">Accept</string>
+	<string name="incoming_session_decline">Decline</string>
+	<string name="incoming_call_title">Incoming call</string>
+	<string name="incoming_session_description">lifeAR video call</string>
+	<string name="incoming_meeting_notification_channel_name">lifeAR call notifications</string>
+	<string name="incoming_meeting_notification_channel_description">Incoming lifeAR call notification category</string>
+
+	<!-- Terms of Service -->
+	<string name="terms_of_service">Terms of Service</string>
+	<string name="terms_of_service_toolbar_title">lifeAR Terms of Service</string>
+
+	<!-- HANSI -->
+	<string name="hansi">HANSI</string>
+	<string name="hansi_link">https://www.teamviewer.com/link/?url=418721</string>
+
+	<!-- Privacy Policy -->
+	<string name="privacy_policy">Privacy Policy</string>
+	<string name="privacy_policy_link">https://www.teamviewer.com/link/?url=464741</string>
+
+	<!-- Legal Agreement Korea -->
+	<string name="legal_agreement_korea_text_consent_to_toc">I accept the %1$s and the %2$s</string>
+	<string name="legal_agreement_korea_text_consent_to_collection">I consent to the collection and processing of my personal data as described in the %1$s.</string>
+	<string name="legal_agreement_korea_text_consent_to_transfer">I consent to the international transfer of my personal data as described in the %1$s.</string>
+	<string name="legal_agreement_korea_text_consent_to_marketing">I consent to the processing and use of my personal data for marketing purposes as described in the %1$s.</string>
+
+	<!-- Edit Profile -->
+	<string name="edit_profile_title">Edit Profile</string>
+	<string name="save_changes_button">Save Changes</string>
+
+	<!-- Call UI Message-->
+	<string name="show_calling_participant">Calling %s...</string>
+	<string name="show_participant_declined">%s declined the call.</string>
+	<string name="show_participant_missed">%s did not answer.</string>
+	<string name="phone_number_with_name">%1$s (%2$s)</string>
+
+	<!-- VerificationError -->
+	<string name="verification_error_user_not_found_title">Re-registration necessary</string>
+	<string name="verification_error_user_not_found_message">Your account was not found. Please restart the app and register again.</string>
+	<string name="verification_error_user_not_activated_title">Re-registration necessary</string>
+	<string name="verification_error_user_not_activated_message">Your account has not yet been setup correctly. Please restart the app and register again</string>
+	<string name="verification_error_different_teamviewer_id_title">No longer registered</string>
+	<string name="verification_error_different_teamviewer_id_message">Your phone number is no longer registered for lifeAR on this phone. Probably you registered it on another phone.\nDo you want to use this phone as the only one for this number and register again?</string>
+	<string name="verification_error_different_teamviewer_id_register">Register</string>
+	<string name="verification_error_outdated_app_version_title">Update needed</string>
+	<string name="verification_error_outdated_app_version_message">Your app version is no longer supported. Please go to the app store and download the latest version.</string>
+
+	<!-- Presenter Left -->
+	<string name="become_presenter_header">%s left the call</string>
+	<string name="become_presenter_descr">Continue the call and become the presenter instead!</string>
+	<string name="presenter_info">Presenter</string>
+	<string name="start_sharing">Start sharing</string>
+
+	<!-- Gif Privacy Policy -->
+	<string name="gif_privacy_header">Bring your favorite gifs to life</string>
+	<string name="gif_privacy_text">By continuing, you acknowledge our updated %1$s which now reflects the use of the GIPHY SDK.</string>
+	<string name="gif_privacy_link">Privacy Policy</string>
+
+	<!-- Request Permission Screen -->
+	<string name="request_permissions_title">Have fun with AR</string>
+	<string name="request_permissions_message">lifeAR is a camera app, enable access so you can start playing with AR and record funny videos</string>
+	<string name="request_permissions_camera">Allow camera access</string>
+	<string name="request_permissions_microphone">Allow microphone access</string>
+
+</resources>

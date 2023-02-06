@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+	<string name="assistar_app_name">Assist AR</string>
+	<string name="task_affinity" translatable="false">com.teamviewer.pilot.cbzwzbik</string>
+
+	<!-- MAIN SCREEN -->
+	<string name="compatibility_mode_headline">Compatibility mode</string>
+	<string name="compatibility_mode_message">The application is running with reduced functionality.</string>
+	<string name="compatibility_mode_button_text">Read More</string>
+	<string name="arcore_not_installed_message">The application is running with reduced functionality. Please install Google Play Services for AR.</string>
+	<string name="arcore_request_install_button">Install</string>
+	<string name="assistar_compatibility_mode_alert_dialog_message">Your device is missing the requirements for building augmented reality experiences. You will still be able to use Assist AR in the 2D mode. Check the list of supported devices by Google.</string>
+	<string name="compatibility_mode_alert_dialog_positive_button">Open in browser</string>
+	<string name="user_focus_group_message">Share your feedback about TeamViewer Assist AR to help us improve the product!</string>
+	<string name="user_focus_group_no">no, thanks</string>
+	<string name="user_focus_group_action">take survey</string>
+
+	<!-- TUTORIAL -->
+	<string name="stop_recording_dialog_confirm">Stop</string>
+	<string name="stop_recording_dialog_title">Do you want to stop recording?</string>
+
+	<string name="assistar_share_session_title">TeamViewer Assist AR video</string>
+
+	<!-- MENU ENTRIES -->
+	<string name="menu_community">Knowledge base</string>
+	<string name="menu_tutorial">How to connect</string>
+	<string name="menu_share">Share</string>
+
+	<!-- SETTINGS -->
+	<string name="settings_title_show_surfaces_and_reference_points">Show surfaces and reference points</string>
+	<string name="settings_summary_show_surfaces_and_reference_points">Improve the accuracy of marking by learning how object detection works.</string>
+	<string name="settings_intro">Intro</string>
+	<string name="intro_title">Intro</string>
+	<string name="community_url">https://www.teamviewer.com/link/?url=356807</string>
+
+	<!--Intro-->
+	<string name="intro_page_one_bottom">Share your view with an expert</string>
+	<string name="intro_page_two">Highlight the issue</string>
+	<string name="intro_page_three">Receive guidance</string>
+	<string name="intro_page_four_bottom">Solve the problem together</string>
+	<string name="intro_done">Done</string>
+	<string name="intro_install_arcore_title">Start your augmented reality experience!</string>
+	<string name="intro_install_arcore_message_assistar">Install Google Play Services for AR to fully enjoy Assist AR</string>
+
+	<!-- Crash Reporting -->
+	<string name="crash_report_email_subject_app_name"
+		translatable="false">Assist AR</string>
+
+	<!--  Legal agreement -->
+	<string name="legal_agreement_title" translatable="false">@string/assistar_main_title</string>
+</resources>
