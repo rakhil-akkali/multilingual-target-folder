@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+<string name="tv_host_assignment_description" tools:ignore="MissingTranslation">Brand: %1$s\nModel: %2$s\nSerial: %3$s</string>
+</resources>

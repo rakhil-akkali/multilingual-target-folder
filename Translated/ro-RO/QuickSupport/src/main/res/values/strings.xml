@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><!-- Legal agreement --><string name="legal_agreement_title" translatable="false">TeamViewer QuickSupport</string>
+	<string name="task_affinity" translatable="false">com.teamviewer.quicksupport.market.zmpgyjei</string>
+</resources>

@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Meeting</string>
+	<string name="task_affinity" translatable="false">com.teamviewer.blizz.market.ybgmoqgd</string>
+	<string name="activity_label_contact_picker">Choose a contact</string><!-- Pre Meeting Screen --><string name="pre_meeting_preview_text">This preview is visible only to you</string>
+	<string name="premeeting_fragment_start">Start</string>
+	<string name="premeeting_fragment_join">Join</string>
+	<string name="premeeting_organizer_toolbar_title">Organized by %1$s</string>
+	<string name="premeeting_title_preview">Meeting preview</string>
+	<string name="premeeting_micOff_textview">Mic OFF</string>
+	<string name="premeeting_videoOff_textview">Video OFF</string>
+	<string name="premeeting_micOn_textview">Mic ON</string>
+	<string name="premeeting_videoOn_textview">Video ON</string><!-- Password Alert Dialog --><string name="meeting_password_alert_textview">This meeting is password protected</string>
+	<string name="meeting_password_alert_edittext_hint">Enter password</string>
+	<string name="meeting_password_alert_ok">OK</string>
+	<string name="meeting_password_alert_cancel">Cancel</string><!-- Legal Activity --><string name="activity_label_copyright" translatable="false">Third-Party Copyrights</string>
+	<string name="eula">EULA</string>
+	<string name="dpa">DPA</string><!-- Smart Focus --><string name="smart_focus_enabled">Smart focus is enabled.</string>
+	<string name="smart_focus_disabled">Smart focus is disabled.</string>
+
+	<string name="login_note">TeamViewer Meeting is free and easy. You can use TeamViewer Meeting on all your devices!</string>
+	<string name="login_name_hint">Your name</string>
+	<string name="login_email_hint">Email</string>
+	<string name="login_button_text">Sign in</string>
+	<string name="register_button_text">Sign up</string>
+	<string name="tv_password_repeatHint">Repeat password</string>
+
+	<string name="join_fragment_join">Join</string>
+	<string name="join_fragment_start">Start Meeting</string>
+	<string name="join_fragment_enter_id_hint">Enter meeting ID</string>
+	<string name="join_fragment_personal_meeting_id">My meeting ID:</string>
+	<string name="join_fragment_personal_meeting_id_connecting">Not ready...</string>
+	<string name="join_fragment_personal_meeting_id_copied" description="User information after the meeting id was copied to the clipboard">%s copied</string>
+
+	<string name="navigation_drawer_feedback">Feedback</string>
+	<string name="navigation_drawer_settings">Settings</string>
+	<string name="navigation_drawer_loading" description="Placeholder for account name while logging in">Loading...</string>
+
+	<string name="abort">Abort</string>
+	<string name="leave">Leave</string>
+	<string name="waiting_room_organizer">Organized by %s</string>
+	<string name="waiting_room_text_1">Connecting to meeting...</string>
+	<string name="waiting_room_text_2">Please wait until the organizer starts the meeting.</string>
+	<string name="waiting_room_text_3">Meeting locked, awaiting organizer to accept your join request.</string>
+	<string name="waiting_room_text_4">Currently no screen is shared</string>
+	<string name="waiting_room_text_6">Password needed</string>
+
+	<string name="dialog_abort_waiting_room_title">Abort?</string>
+	<string name="dialog_abort_waiting_room_message">Are you sure you want to leave the waiting room?</string>
+	<string name="dialog_abort_waiting_room_positive">Leave waiting room</string>
+	<string name="dialog_abort_waiting_room_negative">Cancel</string>
+
+	<string name="dialog_abort_session_title">Abort?</string>
+	<string name="dialog_abort_session_message">Are you sure you want to leave the meeting?</string>
+	<string name="dialog_abort_session_positive">Leave</string>
+	<string name="dialog_abort_session_negative">Cancel</string>
+
+	<string name="tab_meeting">Meeting</string>
+	<string name="tab_chat">Chat</string>
+	<string name="tab_contacts">Contacts</string><!-- Session toolbar bottom --><string name="session_toolbar_mic">Mic</string>
+	<string name="session_toolbar_video">Video</string>
+	<string name="session_toolbar_Screen">Screen</string>
+	<string name="session_toolbar_Chat">Chat</string>
+	<string name="session_toolbar_More">More</string>
+	<string name="session_toolbar_crop">Enable smart focus</string>
+	<string name="session_toolbar_normal">Disable smart focus</string><!-- Settings --><string name="activity_label_settings">Settings</string>
+	<string name="activity_label_advanced_settings">Advanced</string>
+	<string name="settings_advanced">Advanced</string>
+	<string name="settings_accountname">Your Name</string>
+	<string name="settings_send_logfiles">Send log files</string>
+	<string name="settings_copyrights">Copyright</string>
+	<string name="copyrights_id">copyrights_id</string>
+	<string name="eula_id">eula_id</string>
+	<string name="dpa_id">dpa_id</string>
+	<string name="settings_logout">Sign out</string>
+	<string name="advanced_settings_general_section_title">Entering a meeting</string>
+	<string name="advanced_settings_camera">Start with my video ON</string>
+	<string name="advanced_settings_microphone">Start with my microphone ON</string>
+	<string name="advanced_settings_section_display_title">Meeting preview</string>
+	<string name="advanced_settings_section_display_presetup">Always show meeting preview</string>
+	<string name="advanced_settings_logging">Logging</string>
+
+	<string name="contact_detail_start_chat">Chat</string>
+	<string name="contact_detail_start_meeting">Meeting</string>
+	<string name="contact_edit_delete">Delete</string>
+	<string name="contact_invitation_text">Waiting for response</string>
+	<string name="contact_invite_to_blizz">Invite to TeamViewer Meeting</string>
+
+	<string name="search_no_results">No results found</string>
+
+	<string name="session_widget_request_screen_sharing">Share my screen</string>
+	<string name="session_widget_chat">Chat</string>
+	<string name="session_widget_participants">Participants</string>
+	<string name="session_widget_audio">Audio</string>
+	<string name="session_widget_conference">Conference call</string>
+	<string name="session_widget_video">Video</string>
+	<string name="session_widget_more_menu">More</string>
+
+	<string name="session_share_meetingid">Share the meeting id</string>
+	<string name="session_share_meetingid_text">Please join my TeamViewer meeting:</string>
+	<string name="session_share_meetingid_url" translatable="false">https://meeting.teamviewer.com/join/%s</string>
+
+	<string name="widget_conference_search_hint">Search country</string>
+
+	<string name="tv_widget_participants_editname_dialog_title">Change your name</string>
+	<string name="widget_participants_pending_accept">Accept</string>
+	<string name="widget_participants_pending_deny">Deny</string>
+	<string name="widget_participants_option_menu">More</string>
+	<string name="widget_participants_option_editname">Edit name</string>
+	<string name="widget_participants_option_managerights">Manage rights</string>
+	<string name="widget_participants_option_allowaudio">Allow speaking</string>
+	<string name="widget_participants_audio_disallowed_by_organizer">The organizer disallowed to use your microphone</string>
+	<string name="widget_participants_option_allowvideo">Allow video</string>
+	<string name="widget_participants_option_allowchat">Allow chat</string>
+	<string name="widget_participants_option_allowuploadfiles">Allow file sharing</string>
+	<string name="widget_participants_option_assignasorganizer">Assign as organizer</string>
+	<string name="widget_participants_option_removeparticipant">Remove participant</string>
+	<string name="widget_participants_lockmeeting">Lock meeting</string>
+	<string name="widget_participants_unlockmeeting">Unlock meeting</string>
+	<string name="widget_participants_muteall">Mute all</string>
+	<string name="widget_participants_unmuteall">Unmute all</string>
+	<string name="widget_participants_invitecontact">Invite</string>
+
+	<string name="widget_chat_inputfield_hint">Type your message...</string>
+	<string name="widget_chat_inputfield_hint_disabled">You are not allowed to chat</string>
+
+	<string name="widget_screensharing_start" description="Content description and tooltip for the screen sharing widget to START sharing">Start screen sharing</string>
+	<string name="widget_screensharing_stop" description="Content description and tooltip for the screen sharing widget to STOP/END sharing">End screen sharing</string>
+	<string name="widget_screensharing_pause" description="Content description and tooltip for the screen sharing widget to PAUSE sharing">Pause screen sharing</string>
+
+	<string name="blizz_chat_conversation_empty_room_title">New message</string>
+	<string name="blizz_chat_inputfield_hint">Type your message...</string>
+	<string name="option_search">Search</string>
+
+	<string name="blizz_logfiles_mail" translatable="false">support@teamviewer.com</string>
+	<string name="blizz_logfiles_subject" translatable="false">TeamViewer Meeting Android log file</string>
+
+	<string name="blizz_feedback_mail" translatable="false">support@teamviewer.com</string>
+	<string name="blizz_feedback_subject">TeamViewer Meeting Feedback Android %s</string>
+	<string name="blizz_feedback_body">I want to give some feedback on the TeamViewer Meeting Android App.\n\nI like:\n\nI dislike:\n\nProblems:\n\nAdditional ideas and requests:</string>
+
+	<string name="online_state_online">Online</string>
+	<string name="online_state_away">Away</string>
+	<string name="online_state_busy">Busy</string>
+	<string name="online_state_offline">Show as offline</string>
+
+	<string name="contact_confirm_delete">Do you really want to delete this contact?</string>
+	<string name="title_delete_contacts">Delete contact</string>
+	<string name="login_alert_title_default">Sign in information</string>
+	<string name="login_alert_title_sign_in">Sign in</string>
+	<string name="login_alert_title_sign_up">Sign up</string>
+	<string name="login_forgot_password">Forgot password</string>
+	<string name="login_forgot_password_url" translatable="false">https://meeting.teamviewer.com/logon/lost-password</string>
+
+	<string name="tv_add_contact_action">Add contact</string>
+	<string name="add_contact_title">Add new contact</string>
+	<string name="tv_resend_activation">Resend email</string>
+	<string name="tv_mco_login_url" translatable="false">https://meeting.teamviewer.com/logon</string>
+
+	<string name="chat_empty_fragment">There are no recent conversations yet</string>
+	<string name="blizz_wordmark_offline_text" description="User information while we're not connected to the keep alive">Not connected</string>
+	<string name="blizz_trying_to_connect_text">Connecting</string>
+
+	<string name="video_preview_switch_camera" description="">Switch Camera</string>
+	<string name="video_camera_limitation">Your camera is disabled. The meeting has reached the maximum number of video participants.</string>
+	<string name="video_camera_disallowed_by_organizer">The organizer disallowed to use your camera</string>
+	<string name="video_camera_disallowed_due_to_screen_sharing">Camera unavailable while sharing your screen</string>
+
+	<string name="dialog_meeting_feedback_title">How was your TeamViewer meeting?</string>
+	<string name="dialog_meeting_feedback_hint">Do you want to tell us more?</string>
+	<string name="dialog_meeting_feedback_negative">Not now</string>
+	<string name="dialog_meeting_feedback_positive">Send</string>
+	<string name="dialog_meeting_feedback_audio_rating">How was the audio quality?</string>
+	<string name="dialog_meeting_feedback_meeting_rating">How was your meeting experience?</string>
+	<string name="dialog_meeting_feedback_confirmation" description="User information after the user send us feedback for the meeting quality">Thank you for your feedback</string>
+
+	<string name="incoming_session_title">TeamViewer Meeting</string>
+	<string name="incoming_session_decline_call">Decline Call</string>
+	<string name="incoming_session_accept_call">Accept Call</string>
+	<string name="incoming_session_explanation">Swipe buttons in any direction</string>
+
+	<string name="notification_tap_to_return_content_title">Tap to return to TeamViewer Meeting</string>
+	<string name="notification_tap_to_return_ticker">Starting app to receive connection</string>
+
+	<string name="toast_screen_sharing_started" description="User information after screen sharing has STARTED">Screen sharing started</string>
+	<string name="toast_screen_sharing_paused" description="User information after screen sharing has PAUSED">Screen sharing paused</string>
+	<string name="toast_screen_sharing_stopped" description="User information after screen sharing has STOPPED">Screen sharing stopped</string>
+	<string name="toast_screen_sharing_failed" description="User information if screen sharing can't be started due technical reasons">Couldn\&apos;t start screen sharing</string>
+	<string name="toast_screen_sharing_no_permission" description="User information after he/she didn't grant the permission to draw over other apps">Please grant the permission in order to start screen sharing</string>
+
+	<string name="dialog_handover_presenter_title" description="IDS_REQUEST_TO_BECOME_PRESENTER">Request to become Presenter</string>
+	<string name="dialog_handover_presenter_message" description="IDS_CONFIRM_PRESENTER_HANDOVER">%s wants you to take over the presentation. Do you want to become the presenter?</string>
+	<string name="dialog_handover_presenter_negative" description="IDS_PRESENTER_HANDOVER_REJECT">Reject</string>
+	<string name="dialog_handover_presenter_positive" description="IDS_TAKE_OVER_PRESENTER_ROLE">Take over</string><!-- Bottom sheet dialog --><string name="legal_fragment_agree">Agree</string>
+	<string name="user_agreement">With the download and use of TeamViewer Meeting, you agree to the terms of our EULA as well as the DPA (applicable when we process data on your behalf).</string>
+	<string name="web_user_agreement">Information on how we process your personal data can be found in our Privacy Policy.</string>
+	<string name="website_privacy_policy_link">https://www.teamviewer.com/en/privacy-policy/</string>
+	<string name="website_privacy_policy_link_description">Privacy Policy</string><!-- Bottom sheet dialog Korean Specific --><string name="legal_fragment_consent_eula">I accept the EULA and the DPA.</string>
+	<string name="legal_fragment_consent_data_collection">I consent to the collection and processing of my personal data as described in the Privacy Policy.</string>
+	<string name="legal_fragment_consent_data_transfer">I consent to the international transfer of my personal data as described in the Privacy Policy.</string>
+	<string name="legal_fragment_consent_data_processing">I consent to the processing and use of my personal data for marketing purposes as described in the Privacy Policy.</string><!-- Incoming Meeting Notification --><string name="notification_incoming_meeting">TeamViewer Meeting</string>
+	<string name="incoming_meeting_notification_channel_name">Meeting notifications</string>
+	<string name="incoming_meeting_notification_channel_description">Incoming meeting notification category</string>
+	<string name="incoming_meeting_accept">Accept</string>
+	<string name="incoming_meeting_decline">Deny</string><!--	Session Recording --><string name="session_record_permission_description">This session will be recorded. Do you allow to record your video and VoIP if you activate them?</string>
+	<string name="session_record_allow">Allow</string>
+	<string name="session_record_deny">Deny</string><!--	Contact Invitation--><string name="error_invitation_domain">Domain does not exist</string>
+	<string name="error_invitation_exists">Invitation already exists</string><!--	Session Foreground Service Notification--><string name="session_foreground_notification_channel_title">Meeting Session</string>
+	<string name="session_foreground_notification_channel_description">Meeting Session notification category</string>
+	<string name="session_foreground_notification_title">TeamViewer Meeting in progress...</string>
+	<string name="session_foreground_meeting_id">Meeting ID:</string>
+	<string name="session_foreground_meeting_title">Meeting Subject:</string>
+	<string name="session_foreground_close_action">Leave Meeting</string><!--	Session waiting room notifications--><string name="session_started_notification_title">Your TeamViewer meeting has started.</string>
+	<string name="session_started_notification_description">Tap to join.\n</string>
+</resources>

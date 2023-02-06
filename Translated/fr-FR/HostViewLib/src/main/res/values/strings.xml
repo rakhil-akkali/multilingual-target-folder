@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><!--Voip toolbar--><string name="voip_enable_microphone">Unmute call</string>
+	<string name="voip_disable_microphone">Mute call</string>
+	<string name="voip_enable_speaker">Unmute speaker</string>
+	<string name="voip_disable_speaker">Mute speaker</string>
+	<string name="close_session">Close session</string>
+	<string name="voip_show_menu">Show menu</string>
+	<string name="voip_hide_menu">Hide menu</string>
+	<string name="voip_close">Close</string>
+	<string name="voip_cancel">Cancel</string>
+	<string name="close_session_context">Please say “Close” to close the TeamViewer session. Otherwise, say “Cancel” to remain in the session.</string>
+
+</resources>
