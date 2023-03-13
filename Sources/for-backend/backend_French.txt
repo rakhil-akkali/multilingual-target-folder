@@ -1,1 +1,1 @@
-This is a test file for Automation with Git
+This is a test file for Automation with Git and TE
